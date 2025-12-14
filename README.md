@@ -38,7 +38,7 @@ I work with structured datasets, perform exploratory data analysis, and create *
 
 ## 🤝 Let’s Connect
 <p>
-  <a href="www.linkedin.com/in/ujjwal-singh-4136902a8">
+  <a href="https://www.linkedin.com/in/ujjwal-singh-4136902a8">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
