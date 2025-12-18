@@ -45,6 +45,4 @@ I work with structured datasets, perform exploratory data analysis, and create *
 
 ---
 
-### 💡 Personal Motto
-> Turning data into insights that drive better decisions.
 
